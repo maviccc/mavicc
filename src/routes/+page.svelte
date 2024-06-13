@@ -1,4 +1,6 @@
 <script>
+	import Button from "$lib/Button.svelte";
+	console.log('rendering');
 </script>
 
 <svelte:head>
@@ -6,8 +8,9 @@
 	<meta name="description" content="Svelte demo app" />
 </svelte:head>
 
-<section>
-	<h1 class="bg-slate-600 text-5xl text-white">mavic pages</h1>
+<section class="container bg-green-100 m-auto">
+	<h1 class="bg-slate-600 text-5xl text-white">mavic page</h1>
+	<Button>Click me</Button>
 </section>
 
 
