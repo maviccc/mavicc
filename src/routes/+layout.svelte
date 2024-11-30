@@ -6,7 +6,7 @@
 <div class="app bg-[FAF9F9]">
   <Header />
 
-  <main>
+  <main class="grid gap-4">
     <slot />
   </main>
 
