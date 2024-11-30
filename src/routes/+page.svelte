@@ -100,7 +100,4 @@
 </section>
 
 <style>
-  .container {
-    max-width: 1200px;
-  }
 </style>
