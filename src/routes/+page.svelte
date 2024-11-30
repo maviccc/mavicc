@@ -33,7 +33,7 @@
               rel="noopener noreferrer nofollow"
               target="_blank"
             >
-              <img src="/linkedin.png" alt="linkedin" />
+              <img src="/linkedin.svg" alt="linkedin" />
             </a>
           </li>
 
@@ -42,7 +42,7 @@
               href="https://www.instagram.com/mavicccc/"
               rel="noopener noreferrer nofollow"
               target="_blank"
-              ><img src="/instagram.png" alt="instagram" />
+              ><img src="/instagram.svg" alt="instagram" />
             </a>
           </li>
 
@@ -52,7 +52,7 @@
               rel="noopener noreferrer nofollow"
               target="_blank"
             >
-              <img src="/mail.png" alt="mail" /></a
+              <img src="/mail.svg" alt="mail" /></a
             >
           </li>
         </ul>
