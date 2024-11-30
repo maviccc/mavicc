@@ -26,7 +26,7 @@
     <div class="flex justify-between">
       <h1 class="text-4xl font-bold mb-4">mavic</h1>
       <div>
-        <ul class="flex gap-3 items-center">
+        <ul class="flex gap-4 items-center">
           <li>
             <a
               href="https://www.linkedin.com/in/victoria-rodriguez-morales-/"
@@ -73,9 +73,30 @@
   </header>
 </section>
 
-<section class="grid md:grid-cols-[2.121fr_4fr] gap-3 container m-auto">
-  <img src="/tazon.jpg" alt="tazon" class="w-full" />
-  <img src="/paper.jpg" alt="paper" class="w-full" />
+<section class="flex flex-col md:flex-row gap-4 container m-auto">
+  <div class="flex-auto">
+    <img src="/tazon.jpg" alt="tazon" class="w-full" />
+  </div>
+  <div class="flex-auto">
+    <img src="/paper.jpg" alt="paper" class="w-full" />
+  </div>
+</section>
+
+<section class="flex flex-col md:flex-row gap-4 container m-auto">
+  <div class="flex-auto">
+    <img src="/vaiven.jpg" alt="tazon" class="w-full flex-1" />
+  </div>
+  <div class="flex-auto">
+    <img src="/silk.jpg" alt="paper" class="w-full flex-1" />
+  </div>
+</section>
+
+<section class="container m-auto">
+  <img src="/silla.jpg" alt="tazon" class="w-full" />
+</section>
+
+<section class="container m-auto">
+  <img src="/four.jpg" alt="tazon" class="w-full" />
 </section>
 
 <style>
