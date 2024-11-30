@@ -31,7 +31,7 @@
 
   <!-- Project Title Section -->
   <section class="text-center mb-12">
-    <h2 class="text-2xl font-bold">Vaivén</h2>
+    <h2 class="text-2xl font-bold">Vaivén test</h2>
     <p class="text-gray-600 text-sm">Diseño de estampas a partir de collage</p>
   </section>
 
