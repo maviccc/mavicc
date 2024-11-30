@@ -1,5 +1,5 @@
 <script>
-  console.log("Portfolio rendering");
+  console.log("Portfolio renderingg");
 </script>
 
 <svelte:head>
