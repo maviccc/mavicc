@@ -9,41 +9,29 @@
 
 <section class="container mx-auto px-4 py-8">
   <!-- Header -->
-  <header class="text-center mb-12">
-    <h1 class="text-4xl font-bold mb-4">Mavic</h1>
-    <p class="text-gray-700 text-lg max-w-3xl mx-auto">
-      Hola! Soy Victoria. Siempre me ha gustado comunicar y he ido encontrando
-      en la expresión gráfica y artística el medio para conectar ideas.
-    </p>
-  </header>
-
-  <!-- Project Sections -->
-  <section class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12">
-    <!-- Project 1 -->
-    <div class="flex flex-col">
-      <p class="text-sm text-gray-600 text-center">
-        La identidad se construye incentivando nuestra creatividad.
+  <header class="text-center mb-12 grid gap-24">
+    <div class="flex justify-between">
+      <h1 class="text-4xl font-bold mb-4">Mavic</h1>
+      <div>[XXX]</div>
+    </div>
+    <div>
+      <p class="text-gray-700 text-lg max-w-3xl mx-auto mb-5">
+        Hola! Soy Victoria Siempre me ha gustado comunicar y he ido encontrando
+        en la expresión gráfica y artística el medio para conectar ideas.
+      </p>
+      <p class="text-gray-700 text-lg max-w-3xl mx-auto">
+        La comunicación es el eje. La comunicación como un todo entramado,
+        conectado. Las conexiones y relaciones entre las cosas es lo que me
+        importa. Pensar como sistema interconectado, mundo de mundos actuando en
+        conjunto, simbióticamente.
       </p>
     </div>
-    <!-- Project 2 -->
-    <div></div>
-  </section>
+  </header>
+</section>
 
-  <!-- Project Title Section -->
-  <section class="text-center mb-12">
-    <h2 class="text-2xl font-bold">Vaivén test</h2>
-    <p class="text-gray-600 text-sm">Diseño de estampas a partir de collage</p>
-  </section>
-
-  <!-- More Projects -->
-  <section class="grid grid-cols-1 md:grid-cols-2 gap-8">
-    <!-- Collage Fabric -->
-  </section>
-
-  <!-- Footer Project -->
-  <section class="mt-12 text-center">
-    <h2 class="text-2xl font-bold">Marea</h2>
-  </section>
+<section class="grid md:grid-cols-[2.121fr_4fr] gap-3 container m-auto">
+  <img src="/tazon.jpg" alt="" class="w-full" />
+  <img src="/paper.jpg" alt="" class="w-full" />
 </section>
 
 <style>
