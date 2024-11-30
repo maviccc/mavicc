@@ -78,6 +78,19 @@
   <img src="/paper.jpg" alt="paper" class="w-full" />
 </section>
 
+<section class="grid md:grid-cols-[4fr_1.88fr] gap-3 container m-auto">
+  <img src="/vaiven.jpg" alt="tazon" class="w-full" />
+  <img src="/silk.jpg" alt="paper" class="w-full" />
+</section>
+
+<section>
+  <img src="/silla.jpg" alt="tazon" class="w-full" />
+</section>
+
+<section>
+  <img src="/four.jpg" alt="tazon" class="w-full" />
+</section>
+
 <style>
   .container {
     max-width: 1200px;
