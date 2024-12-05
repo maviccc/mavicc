@@ -99,7 +99,7 @@
 </section>
 
 <section class="container m-auto">
-  <img src="/silla-mock.gif" alt="tazon" class="w-full" />
+  <img src="/silla.jpg" alt="tazon" class="w-full" />
 </section>
 
 <section class="container m-auto">
