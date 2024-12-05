@@ -20,7 +20,7 @@
   <link rel="icon" type="image/png" href="/website-icon.ico" sizes="16x16" />
 </svelte:head>
 
-<section class="container mx-auto px-4 py-8">
+<section class="sm:container mx-auto px-4 py-8">
   <!-- Header -->
   <header class="text-center mb-12 grid gap-24">
     <div class="flex justify-between">
@@ -73,7 +73,7 @@
   </header>
 </section>
 
-<section class="flex flex-col md:flex-row gap-4 container m-auto">
+<section class="flex flex-col md:flex-row gap-4 sm:container m-auto">
   <div class="flex-auto">
     <img src="/tazon.jpg" alt="tazon" class="w-full" />
   </div>
@@ -82,7 +82,7 @@
   </div>
 </section>
 
-<section class="flex flex-col md:flex-row gap-4 container m-auto">
+<section class="flex flex-col md:flex-row gap-4 sm:container m-auto">
   <div class="flex-auto">
     <img src="/vaiven.jpg" alt="tazon" class="w-full flex-1" />
   </div>
@@ -91,11 +91,11 @@
   </div>
 </section>
 
-<section class="container m-auto">
+<section class="sm:container m-auto">
   <img src="/silla.jpg" alt="tazon" class="w-full" />
 </section>
 
-<section class="container m-auto">
+<section class="sm:container m-auto">
   <img src="/four.jpg" alt="tazon" class="w-full" />
 </section>
 
