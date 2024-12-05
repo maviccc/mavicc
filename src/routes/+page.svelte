@@ -18,9 +18,16 @@
 
   <!-- add icon for website -->
   <link rel="icon" type="image/png" href="/website-icon.ico" sizes="16x16" />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap"
+    rel="stylesheet"
+  />
 </svelte:head>
 
-<section class="sm:container mx-auto px-4 py-8">
+<section class="container mx-auto px-4 py-8">
   <!-- Header -->
   <header class="text-center mb-12 grid gap-24">
     <div class="flex justify-between">
@@ -73,16 +80,16 @@
   </header>
 </section>
 
-<section class="flex flex-col md:flex-row gap-4 sm:container m-auto">
+<section class="flex flex-col md:flex-row gap-4 container m-auto">
   <div class="flex-auto">
     <img src="/tazon.jpg" alt="tazon" class="w-full" />
   </div>
   <div class="flex-auto">
-    <img src="/paper.jpg" alt="paper" class="w-full" />
+    <img src="/gif-totem.gif" alt="paper" class="w-full" />
   </div>
 </section>
 
-<section class="flex flex-col md:flex-row gap-4 sm:container m-auto">
+<section class="flex flex-col md:flex-row gap-4 container m-auto">
   <div class="flex-auto">
     <img src="/vaiven.jpg" alt="tazon" class="w-full flex-1" />
   </div>
@@ -91,11 +98,11 @@
   </div>
 </section>
 
-<section class="sm:container m-auto">
-  <img src="/silla.jpg" alt="tazon" class="w-full" />
+<section class="container m-auto">
+  <img src="/silla-mock.gif" alt="tazon" class="w-full" />
 </section>
 
-<section class="sm:container m-auto">
+<section class="container m-auto">
   <img src="/four.jpg" alt="tazon" class="w-full" />
 </section>
 
