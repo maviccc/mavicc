@@ -99,7 +99,9 @@
 </section>
 
 <section class="container m-auto">
-  <img src="/silla.jpg" alt="tazon" class="w-full" />
+  <video playsinline autoplay muted loop>
+    <source src="/silla-mock-video.mp4" type="video/mp4" />
+  </video>
 </section>
 
 <section class="container m-auto">
