@@ -27,9 +27,9 @@
   />
 </svelte:head>
 
-<section class="container mx-auto px-4 py-8">
+<section class="container mx-auto py-8">
   <!-- Header -->
-  <header class="text-center mb-12 grid gap-24">
+  <header class="mb-12 grid gap-24">
     <div class="flex justify-between">
       <h1 class="text-4xl font-bold mb-4">mavic</h1>
       <div>
@@ -65,16 +65,17 @@
         </ul>
       </div>
     </div>
-    <div>
-      <p class="text-gray-700 text-lg max-w-3xl mx-auto mb-5">
-        Hola! Soy Victoria Siempre me ha gustado comunicar y he ido encontrando
-        en la expresión gráfica y artística el medio para conectar ideas.
+    <div class="md:w-3/4 m-auto text-sm md:text-md">
+      <p class="text-gray-700 mb-5">
+        Hola! Soy Victoria, siempre me ha gustado comunicar, y he ido
+        encontrando en la expresión gráfica y artística el medio para conectar
+        ideas.
       </p>
-      <p class="text-gray-700 text-lg max-w-3xl mx-auto">
-        La comunicación es el eje. La comunicación como un todo entramado,
-        conectado. Las conexiones y relaciones entre las cosas es lo que me
-        importa. Pensar como sistema interconectado, mundo de mundos actuando en
-        conjunto, simbióticamente.
+      <p class="text-gray-700">La comunicación es el eje.</p>
+      <p class="text-gray-700">
+        La comunicación como un todo entramado, conectado. Las conexiones y
+        relaciones entre las cosas es lo que me importa. Pensar como sistema
+        interconectado, mundo de mundos actuando en conjunto, simbióticamente.
       </p>
     </div>
   </header>
