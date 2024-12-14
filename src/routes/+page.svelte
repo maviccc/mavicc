@@ -67,9 +67,8 @@
     </div>
     <div class="md:w-3/4 m-auto text-sm md:text-md">
       <p class="text-gray-700 mb-5">
-        Hola! Soy Victoria, siempre me ha gustado comunicar, y he ido
-        encontrando en la expresión gráfica y artística el medio para conectar
-        ideas.
+        Hola! Soy Victoria, siempre me ha gustado comunicar y he ido encontrando
+        en la expresión gráfica y artística el medio para conectar ideas.
       </p>
       <p class="text-gray-700">La comunicación es el eje.</p>
       <p class="text-gray-700">
@@ -86,16 +85,16 @@
     <img src="/tazon.jpg" alt="tazon" class="w-full" />
   </div>
   <div class="flex-auto">
-    <img src="/gif-totem.gif" alt="paper" class="w-full" />
+    <img src="/gif-totem.gif" alt="totem" class="w-full" />
   </div>
 </section>
 
 <section class="flex flex-col md:flex-row gap-4 container m-auto">
   <div class="flex-auto">
-    <img src="/vaiven.jpg" alt="tazon" class="w-full flex-1" />
+    <img src="/vaiven.jpg" alt="vaiven" class="w-full flex-1" />
   </div>
   <div class="flex-auto">
-    <img src="/silk.jpg" alt="paper" class="w-full flex-1" />
+    <img src="/silk.jpg" alt="silk" class="w-full flex-1" />
   </div>
 </section>
 
@@ -106,7 +105,11 @@
 </section>
 
 <section class="container m-auto">
-  <img src="/four.jpg" alt="tazon" class="w-full" />
+  <img src="/four.jpg" alt="four" class="w-full" />
+</section>
+
+<section class="container m-auto">
+  <img src="/huella.png" alt="huella" class="w-full" />
 </section>
 
 <style>
