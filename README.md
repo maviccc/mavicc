@@ -1,4 +1,5 @@
 [Website link, main deploy](https://www.itsmavic.com/)
+[Figma](https://www.figma.com/design/uzlbLnZKFKORRnfjfZc2wF/Vic?node-id=0-1&p=f&t=4BgN1wSzGTtNKrLl-0)
 
 # create-svelte
 

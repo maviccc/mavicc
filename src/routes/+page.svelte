@@ -27,9 +27,9 @@
   />
 </svelte:head>
 
-<section class="container mx-auto px-4 py-8">
+<section class="container mx-auto py-8">
   <!-- Header -->
-  <header class="text-center mb-12 grid gap-24">
+  <header class="mb-12 grid gap-24">
     <div class="flex justify-between">
       <h1 class="text-4xl font-bold mb-4">mavic</h1>
       <div>
@@ -65,16 +65,16 @@
         </ul>
       </div>
     </div>
-    <div>
-      <p class="text-gray-700 text-lg max-w-3xl mx-auto mb-5">
-        Hola! Soy Victoria Siempre me ha gustado comunicar y he ido encontrando
+    <div class="md:w-3/4 m-auto text-sm md:text-md">
+      <p class="text-gray-700 mb-5">
+        Hola! Soy Victoria, siempre me ha gustado comunicar y he ido encontrando
         en la expresión gráfica y artística el medio para conectar ideas.
       </p>
-      <p class="text-gray-700 text-lg max-w-3xl mx-auto">
-        La comunicación es el eje. La comunicación como un todo entramado,
-        conectado. Las conexiones y relaciones entre las cosas es lo que me
-        importa. Pensar como sistema interconectado, mundo de mundos actuando en
-        conjunto, simbióticamente.
+      <p class="text-gray-700">La comunicación es el eje.</p>
+      <p class="text-gray-700">
+        La comunicación como un todo entramado, conectado. Las conexiones y
+        relaciones entre las cosas es lo que me importa. Pensar como sistema
+        interconectado, mundo de mundos actuando en conjunto, simbióticamente.
       </p>
     </div>
   </header>
@@ -85,16 +85,16 @@
     <img src="/tazon.jpg" alt="tazon" class="w-full" />
   </div>
   <div class="flex-auto">
-    <img src="/gif-totem.gif" alt="paper" class="w-full" />
+    <img src="/gif-totem.gif" alt="totem" class="w-full" />
   </div>
 </section>
 
 <section class="flex flex-col md:flex-row gap-4 container m-auto">
   <div class="flex-auto">
-    <img src="/vaiven.jpg" alt="tazon" class="w-full flex-1" />
+    <img src="/vaiven.jpg" alt="vaiven" class="w-full flex-1" />
   </div>
   <div class="flex-auto">
-    <img src="/silk.jpg" alt="paper" class="w-full flex-1" />
+    <img src="/silk.jpg" alt="silk" class="w-full flex-1" />
   </div>
 </section>
 
@@ -105,7 +105,11 @@
 </section>
 
 <section class="container m-auto">
-  <img src="/four.jpg" alt="tazon" class="w-full" />
+  <img src="/four.jpg" alt="four" class="w-full" />
+</section>
+
+<section class="container m-auto">
+  <img src="/huella.png" alt="huella" class="w-full" />
 </section>
 
 <style>
